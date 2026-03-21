@@ -483,3 +483,4 @@ async def search_bundle(
         genre_recommendations=genre_recs,
     )
 
+
